@@ -40,7 +40,7 @@
 
 \date{}
 \renewcommand{\and}{\\}
-\setlength{\droptitle}{-3em} % reduz espaço acima do título.
+\setlength{\droptitle}{-3em} 
 \preauthor{\flushleft\itshape\large\lineskip 0.5em}
 \postauthor{\par}
 \pretitle{\flushleft\Large\textbf}
@@ -56,10 +56,10 @@
     \small
 }{%
     \par\noindent\rule[.5\baselineskip]{\textwidth}{.5pt}
-    \vspace{-2em} % reduz espaço entre resumo e primeira seção.
+    \vspace{-2em} 
 }
 
-\setlength{\parskip}{0.8ex} % Decidir tamanho
+\setlength{\parskip}{0.8ex} 
 \titleformat{\section}{\bfseries\large}{\thesection}{2\wordsep}{}
 \titleformat{\subsection}{\bfseries\normalsize}{\thesubsection}{2\wordsep}{}
 \DeclareMathOperator{\sen}{sen}
