@@ -34,7 +34,7 @@
 %\thanksfootextra{}{\hfill}
 
 \renewcommand{\and}{\\}
-\setlength{\droptitle}{-3em} % reduz espaço acima do título.
+\setlength{\droptitle}{-3em} 
 \preauthor{\centering\itshape\large\lineskip 0.5em }
 \postauthor{\par\lineskip 1.5em}
 \pretitle{\centering\Large}
