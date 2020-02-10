@@ -1,1 +1,1 @@
-# Repositório para os projetos em \LaTeX
+## Repositório para os projetos em LaTeX
