@@ -81,7 +81,7 @@ data2017 <- data.frame(
 )
 @
 
-Afim de elhor organizar nossos dados, vamos renomear as variáveis:
+Afim de melhor organizar nossos dados, vamos renomear as variáveis:
 
 <<names2017, highlight = FALSE>>=
 names(data2017) <-
