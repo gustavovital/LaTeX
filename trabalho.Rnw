@@ -205,11 +205,7 @@ par(mfrow = c(2,2))
 plot(modelo2017.2)
 @
 
-
-
-
 \nocite{martine2015pnad}
 
 \bibliography{refs}
-
 \end{document}
