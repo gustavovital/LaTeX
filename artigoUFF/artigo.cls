@@ -36,7 +36,6 @@
 \settowidth{\thanksmarkwidth}{*}
 \setlength{\thanksmargin}{0pt}
 \thanksmarkseries{fnsymbol}
-%\thanksfootextra{}{\hfill}
 
 \date{}
 \renewcommand{\and}{\\}
