@@ -107,7 +107,6 @@ print(xtable(summary(data2017),
       include.rownames=FALSE, caption.placement = 'top')
 @
 
-
 Podemos perceber, por exemplo, com a tabela de estatísticas descritivas, que homens representam cerca de 42,81\% da amostra. Da mesma forma, percebemos que cerca de 23,32\% da amostra é branca. 
 
 \subsubsection{Análise Gráfica}
